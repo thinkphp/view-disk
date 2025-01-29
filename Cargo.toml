@@ -1,7 +1,14 @@
 [package]
 name = "view-disk"
 version = "0.1.0"
+authors = ["Adrian Statescu <mergesortv@gmail.com>"]
 edition = "2021"
+description = "A fast and efficient Rust-based CLI tool to view disk space usage and delete unwanted files or directories."
+license = "MIT"
+license-file = "LICENSE"
+documentation = "https://github.com/thinkphp/view-disk"
+homepage = "https://github.com/thinkphp/view-disk"
+repository = "https://github.com/thinkphp/view-disk"
 
 [dependencies]
 
